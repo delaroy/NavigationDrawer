@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="app_import">Import</string>
+    <string name="app_gallery">Gallery</string>
+    <string name="app_slideshow">Slideshow</string>
+    <string name="app_tools">Tools</string>
+    <string name="app_communicate">Communicate</string>
+    <string name="app_share">Share</string>
+    <string name="app_send">Send</string>
+    <string name="appmenuname">Global Mall Online</string>
+
+    <string name="navdemo">Navigation Drawer Full Demo</string>
+    <string name="gallery">This is GALLERY Activity</string>
+    <string name="fileimport">This is FILE IMPORT Activity</string>
+    <string name="slideshow">This is SLIDE SHOW Activity</string>
+
+    <string name="action_settings">settings</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
