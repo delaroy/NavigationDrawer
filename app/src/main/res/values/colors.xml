@@ -6,4 +6,6 @@
     <color name="colorShop">#9a1e1b</color>
     <color name="colorShop2">#071f53</color>
     <color name="colorNavText">#ffffff</color>
+    <color name="colorSettings">#40000000</color>
+    <color name="colorClick">#abcdef</color>
 </resources>
